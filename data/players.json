@@ -1,0 +1,44 @@
+[
+    {
+        "username": "gotoe",
+        "record": {
+            "win": 0,
+            "loss": 0
+        }
+    },
+    {
+        "username": "ssbsk",
+        "record": {
+            "win": 3,
+            "loss": 0
+        }
+    },
+    {
+        "username": "Gotago",
+        "record": {
+            "win": 2,
+            "loss": 4
+        }
+    },
+    {
+        "username": "Bob",
+        "record": {
+            "win": 5, 
+            "loss": 10
+        }
+    },
+    {
+        "username": "John",
+        "record": {
+            "win": 1, 
+            "loss": 100
+        }
+    },
+    {
+        "username": "Ahlee",
+        "record": {
+            "win": 50,
+            "loss": 0
+        }
+    }
+]
